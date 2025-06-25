@@ -3,7 +3,7 @@ package network;
 import bodhi.BodhiDatabase;
 import contexts.BodhiDatabaseContext;
 import contexts.DatabaseContext;
-import database.interpreter.SQLInterpreter;
+import interpreter.SQLInterpreter;
 
 import java.io.*;
 import java.util.ArrayList;
